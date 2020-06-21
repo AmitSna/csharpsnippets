@@ -1,5 +1,9 @@
+<!--
+Goes into this filepath:
+C:\Users\%USERPROFILE%\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets
+-->
 <?xml version="1.0" encoding="utf-8" ?>
-<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2015/CodeSnippet">
     <CodeSnippet Format="1.0.0">
         <Header>
             <Title>rl</Title>
